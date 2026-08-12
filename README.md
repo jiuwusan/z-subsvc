@@ -1,2 +1,1 @@
 # z-subsvc
-config-subscriber
